@@ -1,0 +1,8 @@
+{
+  "smtp_server": "smtp.example.com",
+  "smtp_port": 587,
+  "username": "your_username",
+  "password": "your_password",
+  "from": "agent@example.com",
+  "to": "you@example.com"
+}
